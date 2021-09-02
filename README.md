@@ -19,7 +19,7 @@ Playing video games is a lot of fun, but you know what? build your own is better
   
 Since feb 2021 I have been studying and executing game development independently, which allowed me to have more affinity with python, and thus a more cautious view on development, as the CORE of a game is an event loop with tick frame by frame, and nodejs pretty much does this in its event loop.
 
-[How about reading a bit of splinter's history?📜](https://from-first-trip.s3.amazonaws.com/public/mardozux/stories/splinter-soul.pdf){:target="_blank"}
+[How about reading a bit of splinter's history?📜](https://from-first-trip.s3.amazonaws.com/public/mardozux/stories/splinter-soul.pdf)
 
 keep watching and follow my journey, maybe you'll play and have fun with my games 👇👇👇
 <p align="left">
@@ -42,9 +42,7 @@ Do you need to scan your business card? [right here](https://from-first-trip.s3.
 * [Learn about git](https://github.com/MRCardoso/git-code)
 * [composer](https://github.com/MRCardoso/oficina-composer)
 * [build your own php micro-framework](https://github.com/MRCardoso/virtual-notebook)
-* create your own game engine with java:
-  * [Code](https://bitbucket.org/mrcmasters/hatter-coin)
-  * [download](https://mardozux.itch.io/hatter-coin-guy)
+* create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) [Game](https://mardozux.itch.io/hatter-coin-guy)
 <!--
 **MRCardoso/MRCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
