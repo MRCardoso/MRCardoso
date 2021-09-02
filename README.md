@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Marlon is here
+
+I started my IT career through college (EAD) and already in the first months of the course, due to dedication and study on website development, I got my first internship working with PHP OO, it was a brief experience but it allowed me to reach new opportunities in the market, and with each new challenge I improved my knowledge about web development, eventually I had contact with frontend frameworks (angular, react, vue) and nodejs on the backend to build a 100% javascript application.
+Since 2021 I have been studying and executing game development independently, which allowed me to have more affinity with python, and thus a more cautious view on development, as the CORE of a game is an event loop with tick frame by frame, and nodejs pretty much does this in its event loop.
 
 <!--
 **MRCardoso/MRCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
