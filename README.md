@@ -42,7 +42,7 @@ Do you need to scan your business card? [right here](https://from-first-trip.s3.
 * [Learn about git](https://github.com/MRCardoso/git-code)
 * [composer](https://github.com/MRCardoso/oficina-composer)
 * [build your own php micro-framework](https://github.com/MRCardoso/virtual-notebook)
-* create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) [Game](https://mardozux.itch.io/hatter-coin-guy)
+* create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) and [Game](https://mardozux.itch.io/hatter-coin-guy)
 <!--
 **MRCardoso/MRCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
