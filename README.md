@@ -14,6 +14,12 @@ I started my IT career through college (EAD) and already in the first months of 
   </a>
 </p>
 
+## Node + vue
+A web application in rest api pattern with nodejs in backend and vuejs the frontend, a environment 100% Javascript.
+
+[task-list-server](https://github.com/MRCardoso/task-list-server)
+
+
 ## Game developer carrer 🎮
 Playing video games is a lot of fun, but you know what? build your own is better.
   
