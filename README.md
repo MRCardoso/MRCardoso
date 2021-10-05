@@ -60,44 +60,6 @@ Do you need to scan your business card? [right here](https://from-first-trip.s3.
 * [build your own php micro-framework](https://github.com/MRCardoso/virtual-notebook)
 * create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) and [Game](https://mardozux.itch.io/hatter-coin-guy)
 
-
-## some Math tricks
-
-### extract value from the percentage
-```python
-# get 10% of 525
-# Equation: VALUE X PERCENTAGE / 100 or VALUE X PERCENT_DECIMAL
-value = 525
-percentage = 10 // or 0.10
-print(value * percentage / 100)
-```
-### get the percentage of value from full value
-```python
-# get % of 15 from 1500
-# Equation: VALUE / FULLVALUE X 100
-value = 15
-fullValue = 1500
-print(value / fullValue * 100)
-```
-
-### increace percent value
-```
-# add 20% to value 2460
-# Equation: FULLVALUE * ( 1 + PERCENTAGE / 100)
-fullValue = 2460
-percentage = 20
-print(fullValue * (1 + percentage/ 100))
-```
-
-### decrease percent value
-```
-# remove 15% to value 600
-# Equation: FULLVALUE * (1 - PERCENTAGE/100)
-fullValue = 600
-percentage = 15
-print(fullValue * (1 - percentage/ 100))
-```
-
 <!--
 **MRCardoso/MRCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
