@@ -14,6 +14,10 @@ I started my IT career through college (EAD) and already in the first months of 
   </a>
 </p>
 
+## Python tricks
+Some python script, to learning the language an work some logics
+* [python-tricks](https://github.com/MRCardoso/python-tricks)
+
 ## Reactjs + Nextjs
 a web aplication developed for practice the pronounce of english
 * [domain](https://megrolang.com.br/) 
