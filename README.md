@@ -23,7 +23,7 @@ a web aplication developed for practice the pronounce of english
 * [Production](https://megrolang.com.br/) 
 * [Development](https://migrate-lang-git-develop-mrcardoso.vercel.app/)
 * [Repository](https://github.com/MRCardoso/migrate-lang)
-* [Game Published + create for Ludum Dare 49](https://mardozux.itch.io/the-imaginner)
+* [Game Published - create for Ludum Dare 49](https://mardozux.itch.io/the-imaginner)
 
 ## Node + vue
 A web application in rest api pattern with nodejs in backend and vuejs the frontend, a environment 100% Javascript.
