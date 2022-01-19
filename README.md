@@ -58,10 +58,10 @@ Are you hungry and lives close Alm.Tamadaré PR, Brazil? [ask for a hotdog](http
 
 Do you need to scan your business card? [right here](https://from-first-trip.s3.amazonaws.com/public/playfast/visit-card.pdf)
 
-
 ## Here are some topics that might interest you 
 * [start your own node project with this util](https://github.com/MRCardoso/nodeevel)
 * [Learn about git](https://github.com/MRCardoso/git-code)
+* [learn about vim](https://github.com/MRCardoso/mcvim)
 * [composer](https://github.com/MRCardoso/oficina-composer)
 * [build your own php micro-framework](https://github.com/MRCardoso/virtual-notebook)
 * create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) and [Game](https://mardozux.itch.io/hatter-coin-guy)
