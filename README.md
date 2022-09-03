@@ -19,7 +19,7 @@ I started my IT career through college (EAD) and already in the first months of 
 ## Languages learning
 Some script, to learning the language an work some logics
 * [nodejs/javascript](https://github.com/MRCardoso/node-stuffs)
-* [python](https://github.com/MRCardoso/python-tricks)
+* [python](https://github.com/MRCardoso/python-stuffs)
 
 ## Reactjs + Nextjs
 a web aplication developed for practice the pronounce of english
