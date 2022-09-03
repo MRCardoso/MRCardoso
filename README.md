@@ -20,6 +20,10 @@ I started my IT career through college (EAD) and already in the first months of 
 Some script, to learning the language an work some logics
 * [nodejs](https://github.com/MRCardoso/node-stuffs)
 * [python](https://github.com/MRCardoso/python-stuffs)
+* [PHP](https://github.com/MRCardoso/virtual-notebook)
+* [Java](https://bitbucket.org/mrcmasters/hatter-coin) and [Game](https://mardozux.itch.io/hatter-coin-guy)
+* [vim](https://github.com/MRCardoso/mcvim)
+* [git](https://github.com/MRCardoso/git-code)
 
 ## Reactjs + Nextjs
 a web aplication developed for practice the pronounce of english
@@ -63,11 +67,7 @@ Do you need to scan your business card? [right here](https://from-first-trip.s3.
 
 ## Here are some topics that might interest you 
 * [start your own node project with this util](https://github.com/MRCardoso/nodeevel)
-* [Learn about git](https://github.com/MRCardoso/git-code)
-* [learn about vim](https://github.com/MRCardoso/mcvim)
 * [composer](https://github.com/MRCardoso/oficina-composer)
-* [build your own php micro-framework](https://github.com/MRCardoso/virtual-notebook)
-* create your own game engine with java: [Code](https://bitbucket.org/mrcmasters/hatter-coin) and [Game](https://mardozux.itch.io/hatter-coin-guy)
 
 <!--
 **MRCardoso/MRCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
