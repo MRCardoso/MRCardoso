@@ -6,7 +6,7 @@ I started my IT career through college (EAD) and already in the first months of 
   <a href="https://www.linkedin.com/in/mrcardoso/" target="_blank" title="Linkedin Contact">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" />
   </a>
-  <a href="https://www.instagram.com/mus2cardoso/" target="_blank" title="Instagram Contact">
+  <a href="https://www.instagram.com/mardozuxstudio/" target="_blank" title="Instagram Contact">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="marlon" width="40" />
   </a>
   <a href="https://www.npmjs.com/~mrcardoso" target="_blank" title="Node skills">
@@ -27,9 +27,9 @@ Some script, to learning the language an work some logics
 
 ## Reactjs + Nextjs
 a web aplication developed for practice the pronounce of english
-* [Production](https://megrolang.com.br/) 
-* [Development](https://migrate-lang-git-develop-mrcardoso.vercel.app/)
+* [Production](https://megrolang.com.br/)
 * [Repository](https://github.com/MRCardoso/migrate-lang)
+* [Game Published on Steam](https://store.steampowered.com/app/1946280/Small_phrases_Great_stories/)
 * [Game Published - create for Ludum Dare 49](https://mardozux.itch.io/the-imaginner)
 
 ## Node + vue
