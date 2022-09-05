@@ -7,6 +7,7 @@ Playing video games is a lot of fun, but you know what? build your own is better
   
 Since feb 2021 I have been studying and executing game development independently, which allowed me to have more affinity with python, and thus a more cautious view on development, as the CORE of a game is an event loop with tick frame by frame, and nodejs pretty much does this in its event loop.
 
+[How about reading a bit of splinter's history?📜](https://mardozux-studio.s3.amazonaws.com/public-assets/splinter-soul.pdf)
 
 ## Follow me😀
 <p align="left">
@@ -33,7 +34,6 @@ Since feb 2021 I have been studying and executing game development independently
   </a>
 </p>
 
-* [How about reading a bit of splinter's history?📜](https://from-first-trip.s3.amazonaws.com/public/mardozux/stories/splinter-soul.pdf)
 ## Languages Skills
 some projects showing the skills I've developed and worked on over the years
 
@@ -79,7 +79,7 @@ some projects showing the skills I've developed and worked on over the years
           <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="mardozux" width="40" />
         </a>
       </td>
-      <td><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="soon" title="soon" width="40" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="soon" title="Python + s3 + sns, Soon..." width="40" /></td>
     </tr>
     <tr>
       <td>
