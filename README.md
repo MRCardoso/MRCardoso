@@ -33,19 +33,104 @@ Since feb 2021 I have been studying and executing game development independently
   </a>
 </p>
 
-## Languages learning
-Some script, to learning the language an work some logics
-* [nodejs](https://github.com/MRCardoso/node-stuffs)
-* [nodejs + typescript](https://github.com/MRCardoso/nodeevel)
-* [Node + vue](https://github.com/MRCardoso/task-list-server)
-* [python](https://github.com/MRCardoso/python-stuffs)
-* [PHP](https://github.com/MRCardoso/virtual-notebook)
-* [Reactjs + Nextjs](https://github.com/MRCardoso/migrate-lang)
-* [Java](https://bitbucket.org/mrcmasters/hatter-coin) | [Game](https://mardozux.itch.io/hatter-coin-guy)
-* [vim](https://github.com/MRCardoso/mcvim)
-* [git](https://github.com/MRCardoso/git-code)
-* [composer](https://github.com/MRCardoso/oficina-composer)
 * [How about reading a bit of splinter's history?📜](https://from-first-trip.s3.amazonaws.com/public/mardozux/stories/splinter-soul.pdf)
+## Languages Skills
+some projects showing the skills I've developed and worked on over the years
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/MRCardoso/node-stuffs" target="_blank" title="Node Advanced concepts" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node Advanced" width="80" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MRCardoso/nodeevel" target="_blank" title="Node + Typescript" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" /> ➕
+          <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="20" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MRCardoso/task-list-server" target="_blank" title="Node + Vue" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" /> ➕
+          <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="20" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MRCardoso/migrate-lang" target="_blank" title="React + nextjs" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MRCardoso/python-stuffs" target="_blank" title="Python challenges and tests to learn" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Node" width="80" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://store.steampowered.com/app/1946280/Small_phrases_Great_stories/" target="_blank" title="Game developed with blender + python" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="mardozux" width="40" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/MRCardoso/megrolang-lambda" target="_blank" title="This functionality uses behind the scene the lib 'googletrans' of python" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="mardozux" width="40" />
+        </a>
+      </td>
+      <td><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="soon" title="soon" width="40" /></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MRCardoso/virtual-notebook" target="_blank" title="PHP" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="80" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MRCardoso/oficina-composer" target="_blank" title="Oficina composer" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="80" />
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://bitbucket.org/mrcmasters/hatter-coin" target="_blank" title="Game engine 2D building in Java" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" />
+        </a>
+      </td>
+      <td>
+        <a href="https://mardozux.itch.io/hatter-coin-guy" target="_blank" title="Game 2D developed in Java" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="React" width="80" />
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MRCardoso/mcvim" target="_blank" title="Vim common commands" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="40" />
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MRCardoso/git-code" target="_blank" title="Git basic commands" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+        </a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Photoshop works
 Are you hungry and lives close Alm.Tamadaré PR, Brazil? [ask for a hotdog](https://from-first-trip.s3.amazonaws.com/public/jhon-jhon-hot-dog/digital-menu.pdf)
