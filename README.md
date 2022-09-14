@@ -39,7 +39,12 @@ some projects showing the skills I've developed and worked on over the years
 
 <table>
   <tbody>
-    <tr>
+     <tr>
+      <td>
+        <a href="https://github.com/MRCardoso/node-serverless" target="_blank" title="Node Serverless api" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg" alt="Node Serverless" width="80" />
+        </a>
+      </td>
       <td>
         <a href="https://github.com/MRCardoso/node-stuffs" target="_blank" title="Node Advanced concepts" style="text-decoration: none">
           <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node Advanced" width="80" />
@@ -80,6 +85,7 @@ some projects showing the skills I've developed and worked on over the years
         </a>
       </td>
       <td><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="soon" title="Python + s3 + sns, Soon..." width="40" /></td>
+      <td></td>
     </tr>
     <tr>
       <td>
@@ -92,6 +98,7 @@ some projects showing the skills I've developed and worked on over the years
           <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="80" />
         </a>
       </td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -108,6 +115,7 @@ some projects showing the skills I've developed and worked on over the years
       </td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td align="center">
@@ -118,6 +126,7 @@ some projects showing the skills I've developed and worked on over the years
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td align="center">
@@ -125,6 +134,7 @@ some projects showing the skills I've developed and worked on over the years
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
         </a>
       </td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
