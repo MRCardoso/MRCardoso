@@ -6,7 +6,7 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
 
 ## Follow me😀
 <p align="left">
-  <a href="https://store.steampowered.com/app/1946280/Small_phrases_Great_stories/" target="_blank" title="Steam Page" style="text-decoration: none">
+  <a href="https://store.steampowered.com/developer/mardozux/" target="_blank" title="Steam Page" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="mardozux" width="40" />
   </a>
   <a href="https://mardozux.itch.io/" target="_blank" title="Itch.io Page" style="text-decoration: none">
@@ -18,8 +18,8 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
   <a href="https://www.linkedin.com/in/mrcardoso/" target="_blank" title="Linkedin Contact" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" />
   </a>
-  <a href="https://www.instagram.com/mardozuxstudio/" target="_blank" title="Instagram Contact" style="text-decoration: none">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="marlon" width="40" />
+  <a href="https://www.youtube.com/@mardozuxstudio" target="_blank" title="Youtube" style="text-decoration: none">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="marlon" width="40" />
   </a>
   <a href="https://www.npmjs.com/~mrcardoso" target="_blank" title="Node skills" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="node" width="40" />
