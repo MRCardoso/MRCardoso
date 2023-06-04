@@ -65,7 +65,7 @@ some projects showing the skills I've developed and worked on over the years
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/MRCardoso/python-stuffs" target="_blank" title="Python challenges and tests to learn" style="text-decoration: none">
+        <a href="https://github.com/MRCardoso/upbge-utils/tree/master/addons" target="_blank" title="Python challenges and tests to learn" style="text-decoration: none">
           <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Node" width="80" />
         </a>
       </td>
@@ -79,7 +79,7 @@ some projects showing the skills I've developed and worked on over the years
           <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="mardozux" width="40" />
         </a>
       </td>
-      <td><img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="soon" title="Python + s3 + sns, Soon..." width="40" /></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
