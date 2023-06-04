@@ -12,14 +12,11 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
   <a href="https://mardozux.itch.io/" target="_blank" title="Itch.io Page" style="text-decoration: none">
     <img src="https://mardozux-studio.s3.amazonaws.com/public-assets/mardozux-studio.png" alt="mardozux" width="40" />
   </a>
-  <a href="https://megrolang.com.br/" target="_blank" title="Practice your English" style="text-decoration: none">
-    <img src="https://mardozux-studio.s3.amazonaws.com/public-assets/bob.gif" alt="mardozux" width="40" />
+  <a href="https://www.youtube.com/@mardozuxstudio" target="_blank" title="Youtube" style="text-decoration: none">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="marlon" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/mrcardoso/" target="_blank" title="Linkedin Contact" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@mardozuxstudio" target="_blank" title="Youtube" style="text-decoration: none">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="marlon" width="40" />
   </a>
   <a href="https://www.npmjs.com/~mrcardoso" target="_blank" title="Node skills" style="text-decoration: none">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="node" width="40" />
