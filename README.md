@@ -62,7 +62,7 @@ some projects showing the skills I've developed and worked on over the years
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/MRCardoso/upbge-utils/tree/master/addons" target="_blank" title="UPBGE - addon/python" style="text-decoration: none">
+        <a href="https://github.com/MRCardoso/upbge-utils/tree/master" target="_blank" title="UPBGE - addon/python" style="text-decoration: none">
           <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Node" width="80" />
         </a>
       </td>
