@@ -23,45 +23,71 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
   </a>
 </p>
 
-## Languages Skills
+## Backend Skills
 <table>
   <tbody>
      <tr>
+       <td>Languages</td>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" /></td>
        <td>
-         <a href="https://github.com/MRCardoso/git-code" target="_blank" title="Git basic commands" style="text-decoration: none">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-        </a>
-       </td>
-       <td>
          <a href="https://github.com/MRCardoso/mcvim" target="_blank" title="Vim common commands" style="text-decoration: none">
           <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="40" />
         </a>
        </td>
      </tr>
+    <tr>
+      <td>Storage</td>
+      <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Google Cloud" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="Google Cloud" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Google Cloud" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" width="80" /></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Monitoring</td>
+      <td><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21.svg" alt="Newrelic" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="80" /></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Cloud</td>
+      <td><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="Aws - Lambda/s3" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="80" /></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Version Control</td>
+      <td>
+         <a href="https://github.com/MRCardoso/git-code" target="_blank" title="Git basic commands" style="text-decoration: none">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+        </a>
+       </td>
+      <td><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="Git" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="Git" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="Git" width="80" /></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
-## Monitoring
-<table>
-  <tbody>
-     <tr>
-        <td><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-ar21~bgwhite.svg" alt="Newrelic" width="80" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21~bgwhite.svg" alt="Grafana" width="80" /></td>
-     </tr>
-  </tbody>
-</table>
-
-## Engines Skills
+## Games Developer Skills
 <table>
   <tbody>
      <tr>
         <td><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="80" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Upbge/blender" width="40" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Upbge/blender" width="80" /></td>
      </tr>
   </tbody>
 </table>
