@@ -86,9 +86,9 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
 <table>
   <tbody>
      <tr>
-        <td><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="80" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Upbge/blender" width="80" /></td>
-       <td><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="80" /></td>
+        <td><a href="https://mardozux.itch.io/gogo-multiplayer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="80" /></a></td>
+        <td><a href="https://store.steampowered.com/app/3005310/Sample_Gunpowder/"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Upbge/blender" width="80" /></a></td>
+       <td><a href="https://mardozux.itch.io/hellow-pong"><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="80" /></a></td>
      </tr>
   </tbody>
 </table>
