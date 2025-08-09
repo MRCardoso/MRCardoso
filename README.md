@@ -29,7 +29,7 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
      <tr>
        <td>Languages</td>
         <td><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="80" /></td>
-        <td><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" /></td>
+        <td align="center"><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="40" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="80" /></td>
@@ -88,6 +88,7 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
      <tr>
         <td><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Godot" width="80" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Upbge/blender" width="80" /></td>
+       <td><img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="80" /></td>
      </tr>
   </tbody>
 </table>
