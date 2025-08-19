@@ -41,9 +41,9 @@ Playing 🎮 video games is a lot of fun, but you know what? build your own is b
      </tr>
     <tr>
       <td>Storage</td>
-      <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Google Cloud" width="80" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="Google Cloud" width="80" /></td>
-      <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Google Cloud" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="Mysql" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgresSQL" width="80" /></td>
+      <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="80" /></td>
       <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="80" /></td>
       <td><img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" width="80" /></td>
       <td></td>
